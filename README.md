@@ -1,4 +1,29 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# My landing bike
+A modern landing page for a bicycle shop with responsive design and animations.
+  - [DEMO LINK](https://ViktorStupin.github.io/my-landing-bike/)
+
+# Technologies used:
+ - HTML5
+ - SCSS/CSS3
+ - Gulp
+ - Stylelint
+ - Git
+
+# Design
+The project was developed based on a layout from Figma:
+  - [FIGMA DESIGN](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&p=f&t=ymro4v8T2nUikW02-0)
+
+# Start
+To run the project locally, follow these steps:
+
+  # Clone repository
+  git clone https://github.com/ViktorStupin/my-landing-bike.git
+  cd my-landing-bike
+
+  # Install dependencies
+  npm install
+
+  # Run the project in development mode
+  npm start
+
+  
